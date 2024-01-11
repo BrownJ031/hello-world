@@ -1,3 +1,3 @@
 # hello-world
 Hello
-MY NAME IS JOEL
+MY NAME IS Joel
